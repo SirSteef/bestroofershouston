@@ -52,7 +52,7 @@ header{
 main{
     color: white;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    padding: 130px 0;
+    padding: 190px 0;
     padding-left: 40px;
 }
 main h1{
@@ -78,8 +78,8 @@ main h3{
 .btn-1 button{
     border-radius: 10px;
     cursor: pointer;
-    margin-top: 15px;
-    margin-bottom: 15px;
+    margin-top: 20px;
+    margin-bottom: 25px;
     text-align: center;
     width: 200px;
     border: 2px solid white;
